@@ -1,0 +1,6 @@
+mpr121.c:51:10:mpr121_get_touch	24	static
+mpr121.c:72:6:mpr121_init	24	static
+mpr121.c:198:26:write_register	32	static
+mpr121.c:217:26:read_register	40	static
+mpr121.c:240:13:i2c_init	4	static
+mpr121.c:261:13:pins_init	4	static

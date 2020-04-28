@@ -1,0 +1,3 @@
+tm_stm32_button.c:19:14:TM_BUTTON_Init	40	static
+tm_stm32_button.c:71:14:TM_BUTTON_SetPressTime	0	static
+tm_stm32_button.c:80:6:TM_BUTTON_Update	40	static

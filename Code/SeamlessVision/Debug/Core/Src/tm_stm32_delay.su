@@ -1,0 +1,12 @@
+tm_stm32_delay.c:16:10:TM_DELAY_Init	8	static
+tm_stm32_delay.c:46:19:TM_DELAY_TimerCreate	32	static
+tm_stm32_delay.c:77:6:TM_DELAY_TimerDelete	40	static,ignoring_inline_asm
+tm_stm32_delay.c:121:19:TM_DELAY_TimerStop	16	static
+tm_stm32_delay.c:129:19:TM_DELAY_TimerStart	16	static
+tm_stm32_delay.c:137:19:TM_DELAY_TimerReset	16	static
+tm_stm32_delay.c:145:19:TM_DELAY_TimerAutoReloadCommand	16	static
+tm_stm32_delay.c:153:19:TM_DELAY_TimerAutoReloadValue	16	static
+tm_stm32_delay.c:162:13:TM_DELAY_1msHandler	8	static
+tm_stm32_delay.c:173:6:HAL_IncTick	16	static
+tm_stm32_delay.c:218:6:HAL_Delay	24	static,ignoring_inline_asm
+tm_stm32_delay.c:243:10:HAL_GetTick	8	static

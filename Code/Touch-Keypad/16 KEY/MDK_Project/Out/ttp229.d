@@ -1,0 +1,15 @@
+.\out\ttp229.o: ..\User\ttp229.c
+.\out\ttp229.o: ..\User\ttp229.h
+.\out\ttp229.o: ..\User\myiic.h
+.\out\ttp229.o: ..\User\sys.h
+.\out\ttp229.o: ..\Lib\cmsis\stm32f10x.h
+.\out\ttp229.o: ..\Lib\cmsis\core_cm3.h
+.\out\ttp229.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\out\ttp229.o: ..\Lib\cmsis\system_stm32f10x.h
+.\out\ttp229.o: ..\User\stm32f10x_conf.h
+.\out\ttp229.o: ..\Lib\inc\stm32f10x_gpio.h
+.\out\ttp229.o: ..\Lib\cmsis\stm32f10x.h
+.\out\ttp229.o: ..\Lib\inc\stm32f10x_rcc.h
+.\out\ttp229.o: ..\Lib\inc\stm32f10x_usart.h
+.\out\ttp229.o: ..\Lib\inc\misc.h
+.\out\ttp229.o: ..\User\delay.h

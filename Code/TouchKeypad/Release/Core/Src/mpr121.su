@@ -1,0 +1,2 @@
+mpr121.c:56:10:mpr121_get_touch	40	static
+mpr121.c:77:6:mpr121_init	40	static
